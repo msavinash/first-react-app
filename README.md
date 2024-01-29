@@ -2,7 +2,7 @@
 
 A simple todo list application built using React and Vite for a streamlined development experience. This app allows users to create and manage their todo lists, with the added feature of local persistence, ensuring that the todos are saved locally on the user's computer.
 
-**Demo Link:** [Todo List App Demo]([https://todo-list-app-puce-alpha.vercel.app/](https://todo-list-app-puce-alpha.vercel.app/))
+**Demo Link:** [Todo List App Demo](https://todo-list-app-puce-alpha.vercel.app/)
 
 ## Features
 
