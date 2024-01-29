@@ -1,8 +1,44 @@
-# React + Vite
+# React Todo List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple todo list application built using React and Vite for a streamlined development experience. This app allows users to create and manage their todo lists, with the added feature of local persistence, ensuring that the todos are saved locally on the user's computer.
 
-Currently, two official plugins are available:
+**Demo Link:** [Todo List App Demo]([https://todo-list-app-puce-alpha.vercel.app/](https://todo-list-app-puce-alpha.vercel.app/))
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Create, mark as done, and delete todo items
+- Local persistence: Todos are stored locally on the user's machine
+- Built with Vite for fast development and React for a modular and efficient user interface
+
+  
+## Local Persistence
+Tasks are automatically saved locally on your computer. Your todo list will persist even if you close the browser or refresh the page.
+
+## Technologies Used
+
+- React
+- Vite
+
+## Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/msavinash/todo-list-app.git
+   ```
+2. **Install Dependencies:**
+   ```bash
+   cd todo-list-app
+   npm install
+   ```
+3. **Run the app locally:**
+   ```bash
+   npm run dev
+   ```
+4. **Open in Browser:**
+   Open your web browser and navigate to http://localhost:5174/ to start using the todo list app.
+
+
+
+# Contributing
+Feel free to contribute, report issues, or suggest improvements! 
+   
